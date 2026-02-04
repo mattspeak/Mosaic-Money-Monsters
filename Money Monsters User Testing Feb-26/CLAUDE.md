@@ -23,6 +23,15 @@ A gamified financial literacy app for young people, styled after Duolingo. Users
   - **Older Teens (16-18):** More real-money relevance, higher scepticism
   - **Young Adults (18-25):** Some to full independence, increasing financial literacy and responsibility
 
+**Recruitment:**
+Recruitment Principles
+
+Mainstream participants: typical young people, not finance enthusiasts
+Skew toward need: prioritise lower financial literacy and lower income
+Exclude the wealthy: remove very financially comfortable households
+No prior formal training: exclude any who’ve completed structured education
+Exclude finance households: no parents working in banking, accounting, FS
+
 ## Research Objectives
 
 Establish product-market fit and clear launch-readiness priorities.
