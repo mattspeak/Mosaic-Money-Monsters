@@ -2,11 +2,6 @@
 
 ## Project Overview
 
-**Client:** Pyszko Foundation (small charity)
-**Consultant:** Mosaic Innovation
-**Timeline:** January - February 2026
-**Launch Target:** Late February 2026
-
 ### What is Money Monsters?
 A gamified financial literacy app for young people, styled after Duolingo. Users learn to "tame their money monsters" through progressive lessons covering budgeting, saving, interest, and investing fundamentals.
 
