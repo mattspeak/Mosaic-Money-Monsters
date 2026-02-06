@@ -22,6 +22,7 @@ The good news: the core architecture is right, and many high-impact fixes are sm
 | Visual Completeness | 3         | Complete all placeholders; fix spelling errors (7× 'Languge')   |
 
 ## CORE STRENGTHS — WHAT THE APP GETS RIGHT
+
 - **Progressive curriculum** delivering in a familiar Duolingo-style format — this is the competitive moat
 - **Character-driven scenarios** tied to real life stages (Naya 12, Tom 15, Ranveer 17, Sarah 24) create immediate relevance
 - **Monster collection** as reward and progress metaphor — genuine emotional hook for 12-15s
@@ -39,11 +40,12 @@ ADD COLIN'S
 
 # 2. LANDSCAPE ANALYSIS
 
-## Part 1. Four Levers for Improving Financial Literacy in Youth Segments
+## Part 1. Four Sources and Levers for Improving Financial Literacy in Youth Segments
 
-| **1. TEACH** – Structured Knowledge | **2. PRACTICE** – Real-World Application | **3. CONNECT** – Social & Peer Learning | **4. GUIDE** – Personalised Support |
-| :--- | :--- | :--- | :--- |
-| *Build understanding through curriculum and content*<br><br>• Gamified<br>• Institutional<br>• Simulation | *Learn by doing with real money* | *Learn from peers* | *Get immediate/adaptive and context-aware support* |
+
+| **1. TEACH** – Structured Knowledge                                                                       | **2. PRACTICE** – Real-World Application | **3. CONNECT** – Social & Peer Learning | **4. GUIDE** – Personalised Support                |
+| :-------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-------------------------------------- | :------------------------------------------------- |
+| *Build understanding through curriculum and content*<br><br>• Gamified<br>• Institutional<br>• Simulation | *Learn by doing with real money*         | *Learn from peers*                      | *Get immediate/adaptive and context-aware support* |
 
 
 ## LEVER DEEP DIVE: 1. TEACH – Structured Knowledge Building
@@ -450,11 +452,10 @@ Every interactivity drives toward a functional outcome
 Relevant concepts, framed in engaging (real or playful) formats pitched at the right level
 
 **Examples:**
+- Money Wise – Scam simulation whilst buying trainers
 - Gimi – "Financial Superskills", bank account positioned as superpower, not boring adult thing
 - Money Ready – £5 investment challenge for 8–12-year-olds where they invest real £5
-- Money Wise – Scam simulation whilst buying trainers
 - Blackbullion — Student focussed
-
 ### 4. CAPABILITY "Can I understand this?"
 
 Don't over OR underestimate; concepts must be made relational
@@ -472,7 +473,7 @@ Don't over OR underestimate; concepts must be made relational
 
 App/lesson/level should open with a clear, tangible benefit
 
-Not just "Learn about X" — but "After this, you'll be able to Y"
+Not just "Learn about currency" — but "After this, you'll be able to spend your holiday money better"
 
 ** E.g. Lesson Opener
 
@@ -500,10 +501,10 @@ Action / Knowledge
 'Adult' world / Target user's world
 ```
 
-|  | PRESCRIPTIVE | RELATABLE |
-|---|---|---|
-| Knowledge | "Interest is the cost of borrowing money" | "When your £10 becomes £11, that's interest working" |
-| Action | "Save 20% of your income" | "Next time you get birthday money, try putting half in savings" |
+|           | PRESCRIPTIVE                              | RELATABLE                                                       |
+| --------- | ----------------------------------------- | --------------------------------------------------------------- |
+| Knowledge | "Interest is the cost of borrowing money" | "When your £10 becomes £11, that's interest working"            |
+| Action    | "Save 20% of your income"                 | "Next time you get birthday money, try putting half in savings" |
 
 **Move from:**
 - TEXTBOOK → EMPOWERING
@@ -519,15 +520,15 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 
 **For example…**
 
-| Financial Jargon | Elevated Translation |
-|---|---|
-| Interest | "How your money grows while you sleep" |
-| Compound interest | "Growth on top of growth" |
-| Diversification | "Don't bet everything on one thing" |
-| Credit score | "Your money reputation" |
-| Budget | "Your money plan" |
-| Liability | "Something that costs you money" |
-| Asset | "Something that makes you money" |
+| Financial Jargon  | Elevated Translation                   |
+| ----------------- | -------------------------------------- |
+| Interest          | "How your money grows while you sleep" |
+| Compound interest | "Growth on top of growth"              |
+| Diversification   | "Don't bet everything on one thing"    |
+| Credit score      | "Your money reputation"                |
+| Budget            | "Your money plan"                      |
+| Liability         | "Something that costs you money"       |
+| Asset             | "Something that makes you money"       |
 
 # 3. MONEY MONSTERS UX EXPERT REVIEW
 
@@ -535,12 +536,15 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 
 ### What works
 - The "adventure" framing is likely to peak interest to learn about money for 12-15s 
-- Character-driven scenarios (Naya, Tom etc.) tied to recognisable life stages creates  relevance
+- Some sharacter-driven scenarios (Naya, Tom etc.) tied to recognisable life stages creates  relevance – but they miss the mark (e.g. 13 year old buying a mortgage)
 ### Improvement areas
 - User-framed benefits aren't clear above the fold on the landing page; "Financial skills" is a means not an end.
 - The app's "reasons to believe" (Certified...) before establishing value
 - "Story-driven lessons" are promised but not evident in actual modules
 - Could use visual explanation alongside text — show, don't just tell
+
+[immediacy]
+### LONGER TERM IMPROVEMENT
 ### Competitive Reality Check: Time to First Value
 
 | Alternative        | Time to value | Personalisation                | Effort to start                  |
@@ -549,22 +553,20 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 | TikTok / YouTube   | 15-60 seconds | Algorithm-curated              | Scroll and watch                 |
 | Duolingo [1]       | 60 seconds    | Choose subject, set goal       | Tap to begin                     |
 | **Money Monsters** | 60+ seconds   | None until quiz completion     | Email, name, DOB, consent, 15 Qs |
-|                    |               |                                |                                  |
+
 [1] https://goodux.appcues.com/blog/duolingo-user-onboarding 
 ### Recommendations (Quick Wins)
 - Add a single-screen value proposition before sign-up: e.g. "Get better with money in 5 minutes a day" with 3 benefit bullets. e.g. "Get your kid to better manage their pocket money" / "Ensure your child is thinking about the future"
-- Ask age first, then adapt the proposition language to segment (e.g., "adventure" for 12-15s, "money skills" for 15+)
+	[ADD SOME BETTER EXAMPLES]
+- Onboarding: Ask age first, then adapt the proposition language to segment (e.g., "adventure" for 12-15s, "money skills" for 15+)
 
 ---
-
 ## 3.2 ENGAGEMENT & MOTIVATION
 
 ### What works
 - Strong habit spine: 'Your Turn' daily prompt + streak mechanic provide a proven retention loop
 - Monster transformation (angry → friendly) creates a satisfying progress metaphor
 - Collectable monster library gives users a tangible artefact of achievement
-- Question format variety (multiple choice, true/false, match-pairs, multi-select) prevents autopilot answering
-
 ### What needs to change
 - Onboarding 'hook' is weak: Test questions start with no personalisation 'tell me your age', "Professor Money" signals complex/abstract topic upfront 
 - Learning topics associated as different monsters is not clear (see related point in 3.3 re labelling of topics)
@@ -572,7 +574,7 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 - No intro to learner objective "0 monsters" is meaningless
 - Progress metrics ('2 Monsters 12') are unclear — users need to understand the reward loop upfront
 - 'Leave Anyway — all your progress will disappear!' uses fear rather than positive motivation
-
+[merge this section with the one below]
 ### Recommendations (Quick Wins)
 - Revise onboarding to start with age selection, then present age-appropriate quiz
 - Following onboarding present the Monsters/topics the learner will learn (see long term recommendations); add single word description below monster name (e.g. 'SAMMY' 'SAVING')
@@ -593,10 +595,14 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 
 ### Where content needs work
 - Moralising disguised as learning: "Should you spend all your money?" tests values, not knowledge
-- Trivially obvious questions with joke distractors insult even a 12-year-old's intelligence
+	- Risk of patronising older teens/adults
+	- Risks framing money and finance as a reductive/binary behaviour
+- Trivially obvious questions with joke distractors risk insulting even a 12-year-old's intelligence
 - Questions focus on money in the abstract rather than the user's relationship with money
 - Definitions framed in textbook style ("What is money?") rather than practical application
 
+
+ Topics are not user-centric
 %% 1. EARNING – Understanding where money comes from
 1. SPENDING – Making smart purchase decisions
 2. SAVING – Building up a reserve for the future
@@ -619,6 +625,9 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 
 ## 3.4 JOBS-TO-BE-DONE & USABILITY
 
+[What is the users' goal? ] 
+ 
+ 
 ### The content solves the right problems — but frames them academically
 - Domain coverage is genuinely broad and well-chosen: saving, credit, currency, budgeting, investment
 - Teens don't wake up wanting to "learn financial literacy" — they want to save for something, understand a payslip, or avoid being ripped off
@@ -691,7 +700,7 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 - **Slow onboarding** — 15-question quiz before any value? They'll bounce to TikTok inside 90 seconds
 
 ### Top 3 Recommendations for This Segment
-1. **Lead with the game, not the learning** — position as "money game" not "financial education"; let them discover it teaches something
+1. ==**Lead with the game, not the learning** — position as "money game" not "financial education"; let them discover it teaches something==
 2. **Connect scenarios to pocket money, birthday cash, and saving for games** — make examples concrete and immediate
 3. **Keep text under 3 sentences per screen** — add visuals, animations, interactions wherever possible
 
