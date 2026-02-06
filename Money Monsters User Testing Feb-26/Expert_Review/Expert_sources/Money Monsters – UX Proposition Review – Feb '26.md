@@ -1,28 +1,25 @@
-# Money Monsters
-## UX & Proposition Review
-## Pre-Launch Assessment for User Testing
-
+**Pre-Launch Assessment for User Testing** 
 # 1. EXECUTIVE SUMMARY
 
 ## Overall Verdict
 
 Money Monsters has the right ambition and a sound educational foundation. The progressive curriculum, character-driven scenarios, and monster collection mechanic are genuine assets — they create a framework capable of delivering engaging financial learning that competitors cannot easily replicate.
 
-The current execution has headroom to do justice to that structure. The app asks users to commit (email, name, DOB, parental consent, 15-question quiz) before showing any value. The learning phase is passive: read text, tap 'Next', answer quiz. Age differentiation is absent — a 12-year-old and a 24-year-old see identical onboarding, tone, and visual language. Some content moralises rather than teaches. Visual assets remain incomplete.
+The current execution has headroom to do justice to that structure. The learning phase is passive: read text, tap 'Next', answer quiz. Age differentiation is absent — a 12-year-old and a 24-year-old see identical onboarding, tone, and visual language. Some content moralises rather than teaches. Visual assets remain incomplete.
 
 The good news: the core architecture is right, and many high-impact fixes are small. This is a **'Fix & Go'** situation — adapting current UX without major redesign is achievable before user testing. The research that follows should focus not on whether users like what exists, but on **what would make them choose this over alternatives**.
 
 ## Launch Readiness Snapshot
 
-| Aspect | Score /10 | Proposed adjustments ahead of user testing |
-|--------|-----------|-------------------------------------------|
-| Learning Structure | 7 | Well-sequenced across 8 levels — maintain as a core strength |
-| Learning Curriculum | 6 | Audit questions: remove moralising, strengthen distractors |
-| Proposition Clarity | 3 | Add value proposition screen before sign-up |
-| Engagement Model | 4 | Clarify reward loop; replace fear-based messaging with positive |
-| Age Differentiation | 2 | Add age-adapted onboarding copy; scale vocabulary by level |
-| Content Quality | 5 | Reframe from academic definitions to practical user goals |
-| Visual Completeness | 3 | Complete all placeholders; fix spelling errors (7× 'Languge') |
+| Aspect              | Score /10 | Proposed adjustments ahead of user testing                      |
+| ------------------- | --------- | --------------------------------------------------------------- |
+| Learning Structure  | 7         | Well-sequenced across 8 levels — maintain as a core strength    |
+| Learning Curriculum | 6         | Audit questions: remove moralising, strengthen distractors      |
+| Proposition Clarity | 3         | Add value proposition screen before sign-up                     |
+| Engagement Model    | 4         | Clarify reward loop; replace fear-based messaging with positive |
+| Age Differentiation | 2         | Add age-adapted onboarding copy; scale vocabulary by level      |
+| Content Quality     | 5         | Reframe from academic definitions to practical user goals       |
+| Visual Completeness | 3         | Complete all placeholders; fix spelling errors (7× 'Languge')   |
 
 ## CORE STRENGTHS — WHAT THE APP GETS RIGHT
 - **Progressive curriculum** delivering in a familiar Duolingo-style format — this is the competitive moat
