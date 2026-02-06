@@ -537,29 +537,25 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 ## 3.1 PROPOSITION & DESIRABILITY
 
 ### What works
-- The "adventure" framing reduces anxiety about money and learning — helpful for 12-15s engaging without shame
-- "Finding the perfect starting point" messaging after the quiz signals personalisation
-- The underlying promise of structured financial education is a genuine differentiator no competitor offers
-- Character-driven scenarios (Naya, Tom, Ranveer, Sarah) tied to recognisable life stages create immediate relevance
-
-### What needs to change
-- Benefits aren't clear above the fold — the user never learns what they *get* from this before sign-up
-- The app jumps to "reasons to believe" (Certified...) before establishing value
+- The "adventure" framing is likely to peak interest to learn about money for 12-15s 
+- Character-driven scenarios (Naya, Tom etc.) tied to recognisable life stages creates  relevance
+### Improvement areas
+- User-framed benefits aren't clear above the fold on the landing page; "Financial skills" is a means not an end.
+- The app's "reasons to believe" (Certified...) before establishing value
 - "Story-driven lessons" are promised but not evident in actual modules
 - Could use visual explanation alongside text — show, don't just tell
-
 ### Competitive Reality Check: Time to First Value
 
-| Alternative | Time to value | Personalisation | Effort to start |
-|-------------|---------------|-----------------|-----------------|
-| ChatGPT / AI | 10 seconds | Fully personalised to question | Type a question |
-| TikTok / YouTube | 15-60 seconds | Algorithm-curated | Scroll and watch |
-| Duolingo | 60 seconds | Choose subject, set goal | Tap to begin |
-| **Money Monsters** | 5-10 minutes | None until quiz completion | Email, name, DOB, consent, 15 Qs |
-
+| Alternative        | Time to value | Personalisation                | Effort to start                  |
+| ------------------ | ------------- | ------------------------------ | -------------------------------- |
+| ChatGPT / AI       | 10 seconds    | Fully personalised to question | Type a question                  |
+| TikTok / YouTube   | 15-60 seconds | Algorithm-curated              | Scroll and watch                 |
+| Duolingo [1]       | 60 seconds    | Choose subject, set goal       | Tap to begin                     |
+| **Money Monsters** | 60+ seconds   | None until quiz completion     | Email, name, DOB, consent, 15 Qs |
+|                    |               |                                |                                  |
+[1] https://goodux.appcues.com/blog/duolingo-user-onboarding 
 ### Recommendations (Quick Wins)
-- Add a single-screen value proposition before sign-up: "Get better with money in 5 minutes a day" with 3 benefit bullets
-- Add example benefit framing: "Get your kid to better manage their pocket money" / "Ensure your child is thinking about the future"
+- Add a single-screen value proposition before sign-up: e.g. "Get better with money in 5 minutes a day" with 3 benefit bullets. e.g. "Get your kid to better manage their pocket money" / "Ensure your child is thinking about the future"
 - Ask age first, then adapt the proposition language to segment (e.g., "adventure" for 12-15s, "money skills" for 15+)
 
 ---
@@ -573,22 +569,21 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 - Question format variety (multiple choice, true/false, match-pairs, multi-select) prevents autopilot answering
 
 ### What needs to change
-- Learning phase is entirely passive — read text, tap 'Next', repeat with no interactivity until quiz
-- No explanation of what coins earn you or what levelling up achieves
+- Onboarding 'hook' is weak: Test questions start with no personalisation 'tell me your age', "Professor Money" signals complex/abstract topic upfront 
+- Learning topics associated as different monsters is not clear (see related point in 3.3 re labelling of topics)
+- Learning phase is passive in places — read text, tap 'Next', repeat with no interactivity until quiz
+- No intro to learner objective "0 monsters" is meaningless
 - Progress metrics ('2 Monsters 12') are unclear — users need to understand the reward loop upfront
 - 'Leave Anyway — all your progress will disappear!' uses fear rather than positive motivation
 
-### What engaging financial learning could look like
-- Instead of reading about budgeting → users drag income/expenses into categories
-- Instead of reading about exchange rates → users play a travel currency-conversion game
-- Instead of 'True/False: save money' → users decide how to split £50 and see compound effects
-
 ### Recommendations (Quick Wins)
-- Clarify progress metrics on home screen — label what each number means
-- Replace fear-based exit warning with positive framing: "Come back soon to keep your momentum!"
-- Add explanation of the reward loop early: "Earn coins to unlock new monsters"
-- Neutralise streak language for 15+ users: "Keep momentum" rather than "Keep your streak shining!"
-
+- Revise onboarding to start with age selection, then present age-appropriate quiz
+- Following onboarding present the Monsters/topics the learner will learn (see long term recommendations); add single word description below monster name (e.g. 'SAMMY' 'SAVING')
+- Add explanation of the reward loop early: "Complete the level to unlock new monsters"
+### Recommendations (Longer Term)
+- Let users choose what topics learn 
+- Instead of reading about budgeting → users drag income/expenses into categories
+- Instead of 'True/False: save money' → users decide how to split £50 and see compound effects
 ---
 
 ## 3.3 LEARNING EFFECTIVENESS & CONTENT QUALITY
@@ -604,6 +599,13 @@ Don't remove complexity — translate it. Keep the sophistication, change the la
 - Trivially obvious questions with joke distractors insult even a 12-year-old's intelligence
 - Questions focus on money in the abstract rather than the user's relationship with money
 - Definitions framed in textbook style ("What is money?") rather than practical application
+
+%% 1. EARNING – Understanding where money comes from
+1. SPENDING – Making smart purchase decisions
+2. SAVING – Building up a reserve for the future
+3. BORROWING – Understanding debt and credit
+4. PROTECTING – Avoiding scams, managing risk
+5. GROWING – Introduction to investing concepts  %%
 
 ### Intro quiz: right idea, needs calibration
 - 15 questions is too long before users have committed
