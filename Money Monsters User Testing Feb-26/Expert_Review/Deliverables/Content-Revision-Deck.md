@@ -1,10 +1,74 @@
+```json
+{
+  "presentation_design_system": {
+    "colour_palette": {
+      "primary": "#00A896",
+      "secondary": "#6B2E9E",
+      "accent_pink": "#E91E8C",
+      "accent_orange": "#FF9F1C",
+      "base": "#FFFFFF",
+      "text_dark": "#2D3748"
+    },
+    "typography": {
+      "headings": "Bold modern sans-serif (Montserrat-style)",
+      "body": "Clean sans-serif, high readability",
+      "hierarchy": "Large section numbers, clear heading levels",
+      "content_hierarchy": {
+        "#": "Section Header (new section)",
+        "##": "Slide Title (new slide)",
+        "###": "Slide Sub-header (on current slide)",
+        "layout_instructions": "Curly brackets {} within content denote specific layout direction"
+      }
+    },
+    "layout_principles": [
+      "Full-bleed hero images on section dividers",
+      "Clean white backgrounds for content",
+      "Generous whitespace throughout",
+      "Left-aligned content blocks"
+    ],
+    "visual_elements": [
+      "3D geometric shapes (polygons, crystals, pyramids)",
+      "Gradient overlays (teal to purple transitions)",
+      "Rounded corner cards for information grouping",
+      "Circular icon badges with flat colours",
+    ],
+    "slide_types": {
+      "section_divider": "Full-bleed image + large number + title + subtitle",
+      "content_slide": "White background + icon + heading + 2-4 bullets",
+      "two_column_slide": "Two columns with icon + heading + 50% content on left / right (with spacing between columns)",
+      "three_column_slide": "Three columns with icon + heading + 33% content on left / middle / right (with spacing between columns)",
+      "comparison_slide": "Side-by-side columns with colour coding",
+      "process_slide": "Numbered sequences or journey maps"
+   },
+    "split_layout": "Solid colour sidebar (left, ~30% width) with white main content area (right, ~70% width)",
+    "split_layout_specifications": {
+      "sidebar": {
+        "background": "Solid vibrant colour (primary/secondary from palette)",
+        "text_colour": "White",
+        "content": "Product overview, key features, metadata",
+        "elements": "Circular icon badges, clean bullet lists, clear hierarchy"
+      },
+    "design_principles": [
+      "Modern and professional without being corporate",
+      "Dynamic without being chaotic",
+      "Confident colour blocking",
+      "Clear visual hierarchy",
+      "Clarity and decisiveness over decoration"
+    ]
+  }
+}
+```
+
 # Money Monsters: Pre-Testing Content Priorities
 
 **Mosaic Innovation | February 2026**
 
 ---
 
-# Agenda
+## Welcome
+
+## Agenda
+
 
 - Status update: Where we are
 - Landscape context: Immersion in the problem space
@@ -12,20 +76,18 @@
 - Concrete recommendations by priority area
 - Next steps and options
 
----
+## What We've Been Up To
 
-# Status Update
+{AI two column slide}
 
-## What We've Been Doing
-
-- **Landscape mapping** — Reviewed 15+ competitors across learn, connect with the target, and guide recommendations
+- **Landscape mapping** — Reviewed 15+ competitors: understand learning modalities, connect with the target, and guide recommendations
 - **Human expert review** — UX/LX review of prototype content
 - **Synthetic persona research** — Simulated responses from 12-15, 16-18, and 18-25 segments
-- **Consumer recruitment** — Respondent.io campaigns live for UK and Czech participants
+- **Consumer recruitment** — Respondent campaigns live for UK and Czech participants
 
-## Where We're At
+### Where We're At
 
-- Prototype is **functional but reccomending changes ahead of user testing**
+- Prototype is **functional but reccomending changes ahead of user testing** for maximum ROI
 - Solid structure, though curriculum needs some essential but tactical fixes
 
 ---
@@ -41,64 +103,69 @@
 | **CONNECT** | Social & peer learning | TikTok finfluencers, STUF f2f youth workshops |
 | **GUIDE** | AI-powered personalised support | Kiro, ChatGPT etc. |
 
+{AI put this in hero box at bottom}
 ### Key Takeaways
 
-- **Finfluencers dominate discovery** — Gen Z are 5x more likely to get money advice from social media - relatable content tranlating concepts
-– **Teach apps organise learning user-centric formats** – Framed around the learner 
-- **Practice apps set expectations** — Teens expect genuine utility
-- **For young adults AI is a first stop** — Can't ignore the growing AI trend - 65% of UK Gen Z have used generative AI for personal finance advice, AI tools are used regularly by 9 in 10 Czech individuals aged 12 to 17 (IPSOS research)
+– **Teach apps organise learning into user-centric formats** – Framed around the learner in an age-appropriate way
+- **Practice apps set expectations** — Expectations are high and teens are likely to expect genuine utility
+- **Finfluencers dominate discovery** — Relatable content translating concepts (Gen Z are 5x more likely to get money advice from social media)
+- **For young adults AI is a first stop** — Can't ignore the growing AI trend - 2/3 UK Gen Z use AI for finance advice, AI tools used by 9 in 10 Czechs aged 12 to 17
 
-# Landscape Analysis — Applying engaging principles
+# Landscape Analysis — Applying engaging principles to Money Monsters
 
-## What Makes Financial Education Stick
+*What Makes Financial Education Stick?*
 
-### 1. PROPOSITION — "What's in it for me?"
+{AI shows in a table, 4 columns, 2 rows. The first row is the principle, the second row is the supporting text/examples}
+
+#### 1. PROPOSITION — "What's in it for me?"
 Lead with a clear, tangible outcome the learner will gain
 - *Gimi:* Bank account framed as learning tool — every transaction becomes a teaching moment
-- *Money Wise Game:* "Life skills, not just financial skills" (don't fall for the scam when buying trainers in the app)
+- *Money Wise Game:* "Life skills, not just financial skills" (e.g. Don't fall for the scam when buying trainers in the app)
 
-### 2. UTILITY — "Does this have a use?"
-Interactions should drive toward a functional outcome
-- *Bloom:* "Build wealth early" — safest way for teens to start investing
-- *KidVestors:* "Earn while you learn" — cash rewards for completing lessons
-
-### 3. RELEVANCE — "Connect it to my world?"
+#### 2. RELEVANCE — "Connect it to my world?"
 Concepts framed in engaging formats pitched at the right level
 - *Money Wise:* Scam simulation whilst buying trainers
 - *Money Ready:* £5 real investment challenge for 8-12 year olds
 
-### 4. CAPABILITY — "Can I understand this?"
+#### 3. CAPABILITY — "Can I understand this?"
 Don't over OR underestimate; concepts must be made relational
 - *KidVestors:* "Diversification" → "Don't put all your eggs in one basket"
 - *Bloom:* 300+ bite-sized lessons + real investing from age 13 — treats teens as capable
+
+#### 4. UTILITY — "Does this have a use?"
+Interactions should drive toward a functional outcome
+- *Bloom:* "Build wealth early" — safest way for teens to start investing
+- *KidVestors:* "Earn while you learn" — cash rewards for completing lessons
+*NB: For this early-stage User Testing work, this priciple is a secondary priority to Proposition, Relevance and Capability. But should be built into later considerations given the current competitive landscape.*
 
 ---
 
 # UX Review & Recommendations
 
----
+## Proposition Clarity: The Challenge
 
-## Proposition Clarity
+There's a lack of a clear value proposition visible above the fold of the landing page
 
-### The Problem
+### Evidence:
 
-There's clear value proposition visible above the fold of the landing page
+{AI for all of the 'evidence' slides, we need to keep a blank column on the right for screenshot(s)}
 
+   - **Abstract benefit** — "Financial skills" can't be evaluated and is not a tangible outcome. Parents need: "Will my kid know how to budget?" Kids need: "Learn how to save for a PS5"
+   - **Credibility before value** — Young Enterprise badge appears before anyone knows why they should care
+   - **Over-emphasis on mechanics** — "Level-Based / Story-based Learning, Collect Monsters, Gamified Progress" — These are 'reasons to believe' and whilst they're important, they're not user-centred benefits 
+   - **No audience signal** — No distincition between relevance for a 14 vs. a 22-year-old
 
-**Evidence:**
-- **Feature-led, not outcome-led** — "Build essential financial skills through story-driven lessons" describes what the app IS, not what users GET
-- **Abstract benefit** — "Financial skills" can't be evaluated. Parents need: "Will my kid know how to budget?" Kids need: "Learn how to save for a PS5"
-- **Credibility before value** — Young Enterprise badge appears before anyone knows why they should care
-- **Mechanics over benefits** — "How It Works" lists Level-Based Learning, Collect Monsters, Gamified Progress — all product features, zero user outcomes
-- **No audience signal** — Nothing tells a 14-year-old this is for them vs. a 22-year-old; nothing reassures parents this is age-appropriate
+## Proposition Clarity: Changes to Make Now
 
-### 3 Changes to Make Now
+Prototype 3 propositions to guage user response. See next slide for details. 
+
+### Specific changes to proposition layout:
 
 1. **Add a single-screen value proposition before sign-up**
    - "Get better with money in 5 minutes a day"
    - 3 benefit bullets: Save smarter | Spend wiser | Grow your money
 
-2. **Rewrite the headline to be outcome-led**
+2. **Tighten the headline**
    - Change: "Financial skills for young people"
    - To: "Learn to make your money work for you"
 
@@ -108,7 +175,7 @@ There's clear value proposition visible above the fold of the landing page
 
 ### 3 Proposition Directions to Consider
 
-As it would be good to test some different directions in user testing, here are three options:
+*Note: these are a starting point and we reccomend you evolve these to capture your hypotheses about what will resonate most with your target audience. These are not exhaustive and are suited to different segments.*
 
 **Direction 1: Life Skills** *(Parent-reassurance, school-adjacent)*
 > "Real skills for real money"
@@ -127,17 +194,27 @@ Meet them exactly where they are. Age 13: birthday money decisions. Age 16: firs
 
 ---
 
-## Onboarding Hook
+## Onboarding Hook: The Challenge
 
-### The Problem
+The first experience is a multi-question quiz with no personalisation and no payoff; users have seen limited learning content and have no reason to continue.
 
-The first experience is a 15-question quiz with no personalisation and no payoff. By question 10, users have seen zero content and have no reason to continue.
+### Evidence:
 
-**Evidence:**
-- Quiz starts with mortgage questions that alienate 12-15s
+- Quiz starts with abstract question ("What is the primary purpose money") rather than something more relatable: ("What do you want money for? New phone, independence, future plans, helping others)
+- Remove mortgage/retirement Qs for younger users
 - "Professor Money" signals complex/abstract topic upfront
 - "0 monsters" means nothing to a new user
-- No explanation of what they're working toward
+
+#### Competitive Reality Check: Time to First Value
+
+| Alternative        | Time to value | Personalisation                | Effort to start                  |
+| ------------------ | ------------- | ------------------------------ | -------------------------------- |
+| ChatGPT / AI       | 10 seconds    | Fully personalised to question | Type a question                  |
+| TikTok / YouTube   | 15-60 seconds | Algorithm-curated              | Scroll and watch                 |
+| Duolingo [1]       | 60 seconds    | Choose subject, set goal       | Tap to begin                     |
+| **Money Monsters** | 60+ seconds   | None until quiz completion     | Email, name, DOB, consent, 15 Qs |
+
+[1] https://goodux.appcues.com/blog/duolingo-user-onboarding 
 
 ### 3 Changes to Make Now
 
@@ -146,73 +223,90 @@ The first experience is a 15-question quiz with no personalisation and no payoff
    - Age 16-18: "Get smart about your money"
    - Age 18+: "The financial skills you never learned"
 
-2. **Shorten the intro quiz to 8-10 questions**
-   - Remove mortgage/retirement Qs for younger users
-   - Start with familiar, age-appropriate scenarios
+2. **Shorten the intro quiz questions**
+   - Lead with familiar, age-appropriate ways to connect THEIR relationship with money
+   - With each question, consider it as a hook to future lessons
 
 3. **Explain the reward loop upfront**
    - Add: "Complete levels to unlock monsters and rewards"
-   - Show what they're working toward before asking for commitment
+   - Show what they're working toward before asking for commitment: "You've just unlocked your first Monster!"
 
 ---
 
-## Content Relevance
+## Content Relevance: The Challenge
 
-### The Problem
+The tone is academic rather than practical. Learning modules (aka Monsters) are not clearly signposted and not user-centred in their framing.
 
-Some content moralises rather than teaches. Questions test values, not knowledge. The tone is academic rather than practical.
+Relevance is also about considering the users' context; some content moralises rather than teaches (questioning values, versus knowledge).
 
-**Evidence:**
+### Evidence:
+
+– Some learning modules are money centred (abstract; e.g. "Currency", "Tracking")
 - "Should you spend all your money?" — tests values, not comprehension
-- Trivially obvious questions with joke distractors risk insulting intelligence
-- Definitions framed as textbook style ("What is money?") not practical application
-- Questions focus on money in the abstract, not the user's relationship with it
+- Bais for imparting knowledge about money in the abstract ("What is money?") rather than the user's relationship with it (e.g. "How do you spend your pocket money")
 
-### 3 Changes to Make Now
+## Content Relevance: Changes to Make Now
 
-1. **Replace moralising questions with scenario-based comprehension**
-   - Change: "You should save money. True or false?"
+1. **Refine a small selection of screens to user test in the near term**
+To ensure we're showing age-relevant, user-centred framing and tonality.
+
+**Consider the users' relationship which each introduced concept**
+   - Change: "If the exchange rate is ... how much will you recieve?"
+   - To: "You're going on holiday and want to know how much a pizza will be in your home currency..."
+
+**Replace moralising questions with scenario-based comprehension**
+   - Change: "Should you save money. True or false?"
    - To: "You just got £20 for your birthday. What's the smartest thing to do?"
 
-2. **Reframe negative feedback as encouraging**
+**Reframe negative feedback as encouraging**
    - Change: "Not this time" / "The answer is not complete"
    - To: "Good try — here's why..." / "Nearly there — have another look"
 
-3. **Replace punitive exit warning with positive retention**
-   - Change: "Leave Anyway — all your progress will disappear!"
-   - To: "Your progress will be waiting when you come back"
+2. **Refine the learning modules and ensure they're visible**
 
+Centre the learning modules around the user's relationship with money, not the abstract concept/tool
+   - Change/collapse: Budget, Currency, Tracking, Valut, Credit, Foresight
+   - To: Earn, Spend, Save, Borrow, Protect, Grow
+
+Ensure visibility of the learning modules
+   - Change: 'Sammy' 
+   - To 'Sammy the saver'
 ---
 
-## Adult Competition
-
-### The Challenge
+## Adult Competition: The Challenge
 
 The 18-25 segment faces **intense competition** for financial guidance. They have more options, higher expectations, and immediate real-world money pressures.
 
-**What they're already using:**
+{AI Put this on the right, in a shaded box}
+%% **Reminder of What they're already using:**
 - **AI tools** — 65% of UK Gen Z have used ChatGPT for personal finance advice. Instant, personalised, available 24/7
-- **Finfluencer content** — $104bn market. Short-form, engaging, relatable voices
+- **Finfluencer content** — Short-form, engaging, relatable voices
 - **Practice apps** — Bloom, Stockpile offering real investing alongside learning
-- **Banking apps** — Monzo, Starling already provide budgeting and insights
-- **Workplace schemes** — Pension providers offering their own education
+- **Banking apps** — Monzo, Revolut already provide budgeting and insights
+- **Workplace schemes** — Pension providers offering their own education %%
 
+{AI put this bottom spanning both columns, in a bright blue box, white font}
 **Why this matters:**
-- A 24-year-old won't use an app with cartoon monsters to learn about pensions
-- Content about "pocket money" doesn't speak to someone paying rent
-- They need practical help with ISAs, pension auto-enrolment, first-time investing
+- Will a 21-year-old use an app with cartoon monsters to learn about pensions?
+- Will content about "pocket money" speak to someone paying rent?
+ 
+## Adult Competition: Changes to Make Now
 
-### Recommendation
+### Recommended paths forward...
 
-To serve 18-25s effectively, **tailor content to adult life stages**:
+   - Path 1: User test screen which highlighting learning topics relevant to 18-25s (see below) 
+   - Path 2: Re-invest time/recruitment budget in other segmnents
 
-- **Saving for a house** — Help them understand mortgage deposits, Help to Buy, LISAs
-- **Starting to invest** — Demystify ISAs, explain fractional shares, address fear of risk
-- **Workplace pensions** — Auto-enrolment, employer matching, compound growth over time
-- **Real budgeting** — Managing on £25k, rent-to-income ratios, reducing debt
-- **Financial admin** — Credit scores, payslips explained, tax codes, student loan repayments
+### Adult-relevant content examples
 
-Consider a **"Money Skills" mode** — same curriculum, stripped-back aesthetic, neutral language. Let the content earn respect without visual barriers.
+Earn, Spend, Save, Borrow, Protect, Grow
+
+- **Earn** — Navigating payslips, tax codes, realities the gig economy 
+- **Spend** — Budgeting for rent and bills on a starter salary (managing the 50/30/20 rule)
+- **Save** — Building an emergency fund and using LISAs for a first home deposit
+- **Borrow** — Building a credit score, managing overdrafts, and avoiding the 'buy now, pay later' trap
+- **Protect** — Spotting rental scams, understanding tenant rights, essential insurances
+- **Grow** — Demystifying workplace pensions and starting small with Stocks & Shares ISAs
 
 ---
 
@@ -220,41 +314,22 @@ Consider a **"Money Skills" mode** — same curriculum, stripped-back aesthetic,
 
 ## Three Options
 
-### Option 1: Proceed with current UX
+**The core architecture is right. These are fixes, not redesigns. A 2-3 day pause delivers significantly cleaner research.**
+
+{AI Put this in 3 columns, each in a separate blue box, white font}
+
+#### Option 1: Proceed with current UX
 - User testing runs on existing prototype
 - Captures baseline reactions to current state
-- **Risk:** Testing incomplete/unpolished experience may conflate execution issues with concept issues
+- **Risk:** Poor ROI on user testing
 - *Least favoured*
 
-### Option 2: Pause 2-3 days for tactical fixes
-- Implement the changes recommended in this deck
-- Fix all spelling errors, placeholders, incomplete copy
-- Add value proposition screen and age-adaptive onboarding
-- Reframe problematic questions and feedback copy
-- **Benefit:** Testing then measures the proposition, not the polish
-- *Recommended*
+#### Option 2: Mosaic pause 2-3 days for Pyszko to implement suggestions
+- Mosaic shares analysis and pauses for 2-3 days for Pyszko to implement suggestions
+- **Benefit:** Continue as per proposal with greater ROI from user testing
 
-### Option 3: Mosaic supports iteration
-We can provide hands-on support across a spectrum:
-- **Light touch:** Review your changes before testing
-- **Medium:** Write specific copy for onboarding, questions, feedback
-- **Full support:** Work directly in Figma/content docs to implement changes
-
----
-
-## Summary: What Needs to Change
-
-| Priority | Change | Effort |
-|----------|--------|--------|
-| **Critical** | Add value proposition screen | Small |
-| **Critical** | Fix all typos, placeholders (28+) | Small |
-| **Critical** | Shorten quiz, adapt by age | Small |
-| **High** | Age-adaptive onboarding copy | Small |
-| **High** | Replace moralising questions | Medium |
-| **High** | Reframe negative feedback | Small |
-| **Medium** | Adult content tailoring | Medium |
-| **Medium** | Complete visual assets | Medium |
-
----
-
-*The core architecture is right. These are fixes, not redesigns. A 2-3 day pause delivers significantly cleaner research.*
+#### Option 3: Mosaic supports iteration
+We can re-deploy our time (e.g. from Adult segment) to provide support to Pyszko to implement suggestions
+- **Light touch:** Additional 1hr no prep session to talk through changes
+- **Medium:** Working session, screen by screen to capture changes as stickies
+- **Heavy touch:** Mosaic implements specifc changes (as PPT) and Pyszko implements in Figma
