@@ -1,3 +1,9 @@
+---
+title: "Appendices"
+nav_order: 14
+permalink: /appendices/
+---
+
 # Appendices
 
 ## A. Participant Profiles

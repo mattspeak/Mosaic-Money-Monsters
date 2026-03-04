@@ -1,0 +1,19 @@
+remote_theme: just-the-docs/just-the-docs
+title: "Money Monsters — User Research Report"
+description: "UK Fieldwork · February 2026 · Mosaic Research"
+
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+
+# Heading anchor links
+heading_anchors: true
+
+# Footer
+footer_content: "Money Monsters User Research · February 2026 · Mosaic"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
