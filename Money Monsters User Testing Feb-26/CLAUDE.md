@@ -61,49 +61,6 @@ Establish product-market fit and clear launch-readiness priorities.
 - Cross-market synthesis
 - Prioritised launch recommendations
 
-## Current Tasks
-
-### 1. Recruitment
-- [ ] Set up campaigns in Respondent.io
-- [ ] Platform invite received, join team
-- [ ] Incentives: £60 (UK) / £50 (Czech)
-- [ ] Awaiting client approval
-
-### 2. Mosaic App Review (~3 days total for items 2-5)
-- [ ] Manual walkthrough to form own view
-- [ ] Run through ChatGPT, Claude, and Gemini
-- [ ] Synthesize into "best of" insights
-- [ ] Output: Word doc with clear sections
-- **Coverage:** Overall assessment, usability, clarity, engagement, segment/country considerations
-
-### 3. Synthetic AI Insight
-- [ ] Use ChatGPT and Claude with agreed personas (by age and country)
-- [ ] Run simulated interviews and compile insight summary
-- **Note:** Individual simulated interviews with transcripts may be more effective than asking for overall analysis
-
-### 4. Light Competitor Analysis
-- [ ] Map key financial literacy sources: school, apps, AI, content creators
-- [ ] Create 2x2 map of relevant players
-- [ ] Pros/cons or light SWOT
-- [ ] 1-2 short profiles of leading competitors
-- **Objective:** Identify gaps and true competition
-
-### 5. Quick JTBD Pass
-- [ ] Identify functional jobs
-- [ ] Identify emotional jobs (start with "feel...")
-- [ ] Identify social jobs (start with "be seen as..." / "avoid being seen as...")
-- [ ] Flag differences by age segment
-- [ ] Output: Table with Importance (L/M/H), App Effectiveness (L/M/H), commentary, gap indicators
-- **Target:** ~3-4 slides
-
-### 6. Research Design
-- [ ] Design think-aloud protocol
-- [ ] Create appropriate prompts and contrasts
-
-### 7. AI Setup
-- [ ] ChatGPT project configured with relevant files
-- [ ] Set up equivalent Claude project
-
 ## Design Principles
 
 1. **Clear bullseye audience** - Analyse age bands separately to avoid "dirty averages"
@@ -117,14 +74,6 @@ Establish product-market fit and clear launch-readiness priorities.
 - Launch late February
 - Flag showstoppers, but prioritise feasible fixes
 - Major redesign items become launch-backlog
-
-## File Structure
-
-```
-/Context/
-  Mosaic_User_Testing_Proposal_Jan26_V3.md  # Full research proposal
-/Tasks.md                                    # Current task breakdown
-```
 
 ## Deliverables Expected
 
