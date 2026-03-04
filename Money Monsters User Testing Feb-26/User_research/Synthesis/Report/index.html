@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
   <head>
     <meta charset="UTF-8" />
     <title>Money Monsters — User Research Report</title>
@@ -47,4 +48,43 @@
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-toc@1/dist/toc.js"></script>
   </body>
+=======
+<head>
+  <meta charset="UTF-8">
+  <title>Money Monsters — User Research Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-toc@1/dist/toc.css">
+  <style>
+    :root { --toc-width: 220px; }
+    .app-name { font-weight: 600; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Money Monsters<br>User Research',
+      loadSidebar: true,
+      homepage: 'Money%20Monsters%20User%20Research%20Report.md',
+      subMaxLevel: 0,
+      toc: {
+        tocMaxLevel: 3,
+        target: 'h2, h3',
+      },
+      plugins: [
+        function(hook) {
+          hook.beforeEach(function(content) {
+            // Strip YAML front matter left over from Obsidian
+            return content.replace(/^---[\s\S]*?---\n+/, '');
+          });
+        }
+      ]
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-toc@1/dist/toc.js"></script>
+</body>
+>>>>>>> 8f0abb10d62eddb735e0e8db404d2a8923716580
 </html>
