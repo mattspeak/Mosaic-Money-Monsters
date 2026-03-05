@@ -1,11 +1,11 @@
 ---
 granola_id: c9e9b2b1-74fe-4180-b962-5efdd30af32e
-title: MM - YT - Sam - Transcript
+title: "MM - YT - Sam - Transcript"
 type: transcript
 created: 2026-02-23T15:43:23.304Z
 updated: 2026-02-23T16:48:10.207Z
 attendees: []
-note: "[[MM - YT - Sam, 2026-02-23]]"
+note: "[[Granola_Notes/2026/02/23/MM - YT - Sam, 2026-02-23.md]]"
 ---
 
 # Transcript for: MM - YT - Sam

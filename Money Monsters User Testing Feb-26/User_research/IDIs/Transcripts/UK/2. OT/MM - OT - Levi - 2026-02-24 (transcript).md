@@ -1,11 +1,11 @@
 ---
 granola_id: 5e48ef4e-00a2-46f8-80f6-b5e2fb2375d3
-title: MM - OT - Levi  - Transcript
+title: "MM - OT - Levi  - Transcript"
 type: transcript
 created: 2026-02-24T16:45:18.144Z
 updated: 2026-02-25T12:54:02.929Z
 attendees: []
-note: "[[MM - OT - Levi, 2026-02-24]]"
+note: "[[Granola_Notes/2026/02/24/MM - OT - Levi, 2026-02-24.md]]"
 ---
 
 # Transcript for: MM - OT - Levi 

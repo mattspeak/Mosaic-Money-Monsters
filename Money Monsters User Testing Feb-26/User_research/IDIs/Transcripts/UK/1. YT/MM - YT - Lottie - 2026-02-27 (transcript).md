@@ -1,11 +1,11 @@
 ---
 granola_id: e4dcf2b6-9adf-4c0a-bd13-e2015f5ecbf1
-title: MM - YT - Lottie - Transcript
+title: "MM - YT - Lottie - Transcript"
 type: transcript
 created: 2026-02-27T15:43:49.649Z
 updated: 2026-02-27T16:53:07.386Z
 attendees: []
-note: "[[MM - YT - Lottie, 2026-02-27]]"
+note: "[[Granola_Notes/2026/02/27/MM - YT - Lottie, 2026-02-27.md]]"
 ---
 
 # Transcript for: MM - YT - Lottie

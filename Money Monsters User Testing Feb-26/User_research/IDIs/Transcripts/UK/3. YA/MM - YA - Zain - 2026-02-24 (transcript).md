@@ -1,11 +1,11 @@
 ---
 granola_id: b3bc6fef-8cd7-406d-80ef-bf9f75b3cdbf
-title: MM - YA - Zain - Transcript
+title: "MM - YA - Zain - Transcript"
 type: transcript
 created: 2026-02-24T08:45:06.760Z
 updated: 2026-02-24T09:59:25.180Z
 attendees: []
-note: "[[MM - YA - Zain, 2026-02-24]]"
+note: "[[Granola_Notes/2026/02/24/MM - YA - Zain, 2026-02-24.md]]"
 ---
 
 # Transcript for: MM - YA - Zain

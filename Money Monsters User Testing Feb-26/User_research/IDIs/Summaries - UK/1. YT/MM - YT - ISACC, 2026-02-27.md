@@ -1,11 +1,11 @@
 ---
 granola_id: 78bb012e-89f4-41d5-88fc-33f310b5c82b
-title: "MM - YT - "
+title: "MM - YT - ISACC"
 type: note
 created: 2026-02-27T16:53:09.598Z
-updated: 2026-02-27T17:50:29.558Z
+updated: 2026-03-05T12:03:55.134Z
 attendees: []
-transcript: "[[MM - YT - Issac - 2026-02-27 (transcript)]]"
+transcript: "[[Granola_Transcripts/2026/02/27/MM - YT - ISACC - 2026-02-27 (transcript).md]]"
 ---
 ### PARTICIPANT CONTEXT:
 

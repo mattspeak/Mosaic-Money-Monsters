@@ -1,11 +1,11 @@
 ---
 granola_id: 495c8531-aade-4423-8258-ceff2c1426de
-title: MM Young Teens - Olivia - Transcript
+title: "MM Young Teens - Olivia - Transcript"
 type: transcript
 created: 2026-02-20T12:30:18.209Z
 updated: 2026-02-20T13:21:17.588Z
 attendees: []
-note: "[[MM Young Teens - Olivia, 2026-02-20]]"
+note: "[[Granola_Notes/2026/02/20/MM Young Teens - Olivia, 2026-02-20.md]]"
 ---
 
 # Transcript for: MM Young Teens - Olivia

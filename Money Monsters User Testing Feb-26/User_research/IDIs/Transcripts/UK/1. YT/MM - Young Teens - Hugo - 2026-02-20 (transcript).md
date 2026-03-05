@@ -1,11 +1,11 @@
 ---
 granola_id: 4468403d-3a4c-4596-8ace-f97c09635819
-title: MM - Young Teens - Hugo  - Transcript
+title: "MM - Young Teens - Hugo  - Transcript"
 type: transcript
 created: 2026-02-20T10:59:33.856Z
 updated: 2026-02-20T12:02:07.486Z
 attendees: []
-note: "[[MM - Young Teens - Hugo, 2026-02-20]]"
+note: "[[Granola_Notes/2026/02/20/MM - Young Teens - Hugo, 2026-02-20.md]]"
 ---
 
 # Transcript for: MM - Young Teens - Hugo 

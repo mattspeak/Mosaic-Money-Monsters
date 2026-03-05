@@ -1,11 +1,11 @@
 ---
 granola_id: e8a7e8ea-b3b8-4f6b-92a4-a1f06d30934f
-title: MM - YT - Norah - Transcript
+title: "MM - YT - Norah - Transcript"
 type: transcript
 created: 2026-02-22T15:43:28.784Z
 updated: 2026-02-22T16:44:59.609Z
 attendees: []
-note: "[[MM - YT - Norah, 2026-02-22]]"
+note: "[[Granola_Notes/2026/02/22/MM - YT - Norah, 2026-02-22.md]]"
 ---
 
 # Transcript for: MM - YT - Norah

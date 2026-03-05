@@ -1,11 +1,11 @@
 ---
 granola_id: e995f572-933c-42d0-a4d4-5fcaa8c9f9d2
-title: MM - YA - Mohammad - Transcript
+title: "MM - YA - Mohammad - Transcript"
 type: transcript
 created: 2026-02-24T09:59:27.819Z
 updated: 2026-02-24T11:02:52.072Z
 attendees: []
-note: "[[MM - YA - Mohammad, 2026-02-24]]"
+note: "[[Granola_Notes/2026/02/24/MM - YA - Mohammad, 2026-02-24.md]]"
 ---
 
 # Transcript for: MM - YA - Mohammad

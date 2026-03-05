@@ -1,11 +1,11 @@
 ---
 granola_id: f3d0c6c5-f8f4-4599-b129-e4cabbbfcea7
-title: MM - YA - Grace - Transcript
+title: "MM - YA - Grace - Transcript"
 type: transcript
 created: 2026-02-23T17:09:16.740Z
 updated: 2026-02-23T18:04:36.463Z
 attendees: []
-note: "[[MM - YA - Grace, 2026-02-23]]"
+note: "[[Granola_Notes/2026/02/23/MM - YA - Grace, 2026-02-23.md]]"
 ---
 
 # Transcript for: MM - YA - Grace

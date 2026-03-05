@@ -1,11 +1,11 @@
 ---
 granola_id: 5efe458d-908a-4c3b-bdfc-375db84d184a
-title: MM - YA - Mia - Transcript
+title: "MM - YA - Mia - Transcript"
 type: transcript
 created: 2026-02-25T09:59:38.015Z
 updated: 2026-02-25T12:48:10.061Z
 attendees: []
-note: "[[MM - YA - Mia, 2026-02-25]]"
+note: "[[Granola_Notes/2026/02/25/MM - YA - Mia, 2026-02-25.md]]"
 ---
 
 # Transcript for: MM - YA - Mia

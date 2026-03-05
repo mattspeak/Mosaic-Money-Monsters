@@ -1,11 +1,11 @@
 ---
 granola_id: e8a7e8ea-b3b8-4f6b-92a4-a1f06d30934f
-title: MM - YT - Norah
+title: "MM - YT - Norah"
 type: note
 created: 2026-02-22T15:43:28.784Z
 updated: 2026-02-22T16:44:59.609Z
 attendees: []
-transcript: "[[MM - YT - Norah - 2026-02-22 (transcript)]]"
+transcript: "[[Granola_Transcripts/2026/02/22/MM - YT - Norah - 2026-02-22 (transcript).md]]"
 ---
 ### User Research Session - 13-year-old Nora
 

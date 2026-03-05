@@ -1,12 +1,12 @@
 ---
 granola_id: c0f561d5-6dc5-41c2-b75e-83c9101392a1
-title: MM - OT - Ovie - Transcript
+title: "MM - OT - Ovie - Transcript"
 type: transcript
 created: 2026-02-24T15:27:55.323Z
 updated: 2026-02-24T16:24:13.405Z
-attendees:
+attendees: 
   - Natálie Smutná
-note: "[[MM - OT - Ovie, 2026-02-24]]"
+note: "[[Granola_Notes/2026/02/24/MM - OT - Ovie, 2026-02-24.md]]"
 ---
 
 # Transcript for: MM - OT - Ovie

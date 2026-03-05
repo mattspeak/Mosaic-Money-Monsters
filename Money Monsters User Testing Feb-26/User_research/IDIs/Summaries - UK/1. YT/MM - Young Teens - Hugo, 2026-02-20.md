@@ -5,7 +5,7 @@ type: note
 created: 2026-02-20T10:59:33.856Z
 updated: 2026-02-20T12:02:07.486Z
 attendees: []
-transcript: "[[MM - Young Teens - Hugo - 2026-02-20 (transcript)]]"
+transcript: "[[Granola_Transcripts/2026/02/20/MM - Young Teens - Hugo - 2026-02-20 (transcript).md]]"
 ---
 # Moderator Assessment
 

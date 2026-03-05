@@ -1,11 +1,11 @@
 ---
 granola_id: bc298dbf-93d8-4917-bbf4-66673b94ab51
-title: MM - OT - Aiden - Transcript
+title: "MM - OT - Aiden - Transcript"
 type: transcript
 created: 2026-02-23T11:42:39.682Z
 updated: 2026-02-23T12:50:36.635Z
 attendees: []
-note: "[[MM - OT - Aiden, 2026-02-23]]"
+note: "[[Granola_Notes/2026/02/23/MM - OT - Aiden, 2026-02-23.md]]"
 ---
 
 # Transcript for: MM - OT - Aiden

@@ -1,11 +1,11 @@
 ---
 granola_id: b8f7da76-5294-49b5-8470-843d5eb8d170
-title: MM - YA - Enoch - Transcript
+title: "MM - YA - Enoch - Transcript"
 type: transcript
 created: 2026-02-24T11:12:34.027Z
 updated: 2026-02-24T12:16:57.384Z
 attendees: []
-note: "[[MM - YA - Enoch, 2026-02-24]]"
+note: "[[Granola_Notes/2026/02/24/MM - YA - Enoch, 2026-02-24.md]]"
 ---
 
 # Transcript for: MM - YA - Enoch
