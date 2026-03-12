@@ -36,11 +36,6 @@
 
 # 3. What Young People Actually Want from Financial Education (JTBD)
 
-**What are Jobs to Be Done?** JTBD helps us understand why people engage with a product — not just what they do, but what they're trying to achieve. The core idea: people don't buy products, they "hire" them to get a job done.
-
-For Money Monsters, this means asking not "what does this user need to learn?" but "what is this user trying to accomplish in their financial life right now, and how can the app help them do it?"
-
-The answers differ meaningfully by segment — which has direct implications for content selection, lesson framing, and how the app positions itself to each audience. 
 ## 3.1 The Universal Truth: The Knowing–Doing Gap
 
 ## 3.2 Young Teens — JTBD
@@ -70,7 +65,6 @@ The answers differ meaningfully by segment — which has direct implications for
 
 ## 4.1 Content Relevance by Segment
 
-Mapped to Jobs to Be Done
 ### 4.1.1 Young Teens
 ### 4.1.2 Older Teens
 ### 4.1.3 Young Adults
@@ -190,8 +184,6 @@ Likely on desire for greater gameplay
 ### 9.4.2 Older Teens
 Desire for greater purpose in collecting monsters
 ### 9.4.3 Young Adults
-Risk of being counter-productive; reinforces "childish" perception}
-
 
 ---
 
